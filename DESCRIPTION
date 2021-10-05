@@ -24,3 +24,5 @@ Suggests:
 Config/testthat/edition: 3
 Depends: 
     R (>= 2.10)
+URL: https://github.com/Sean-Spence/Multiserver
+BugReports: https://github.com/Sean-Spence/Multiserver/issues

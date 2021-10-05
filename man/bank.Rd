@@ -3,7 +3,7 @@
 \docType{data}
 \name{bank}
 \alias{bank}
-\title{Bank}
+\title{Bank Data set}
 \format{
 A data frame with with 100 rows and 2 columns:
 \describe{
